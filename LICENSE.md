@@ -1,4 +1,4 @@
-# 
+# advanced nft wash trading bot | multi-wallet-support + gas-fee-estimation is the best nft wash trading bot, featuring multi-wallet-support and gas-fee-estimation. Fast, smart, and
 
 
 
